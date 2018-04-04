@@ -1,6 +1,6 @@
 <?php
-include_once $_SERVER['DOCUMENT_ROOT']."/EcomApp/konfiguracija.php";
-require_once $_SERVER['DOCUMENT_ROOT'].'/EcomApp/config.php';
+include_once $_SERVER['DOCUMENT_ROOT']."/E-Shop/konfiguracija.php";
+require_once $_SERVER['DOCUMENT_ROOT'].'/E-Shop/config.php';
 
 include 'include/head.php';
 include 'include/izbornik.php';
